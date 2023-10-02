@@ -3,7 +3,7 @@ Notebook contain code related to how to chunk yourknowedge base and store that i
 
 # Task Description:
 
-In this assignment you are asked to build a seman4c search engine, able to search a collec4on of PDF documents on a paragraph-by-paragraph basis. To achieve this goal, you should use Python, the SentenceTransformers library (hAps://www.sbert.net/) and any other generally accessible Python libraries. Your code should allow to:
+In this assignment you are asked to build a semanic search engine, able to search a collecion of PDF documents on a paragraph-by-paragraph basis. To achieve this goal, you should use Python, the SentenceTransformers library (https://www.sbert.net/) and any other generally accessible Python libraries. Your code should allow to:
 
     Download k PDFs from hAps://arxiv.org following a user- specified search query and chunk them into individual paragraphs
     Encode/embed each paragraph using SentenceTransformers and store these encodings
